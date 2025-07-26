@@ -16,7 +16,7 @@ A Power BI dashboard that visualizes key healthcare metrics including patient de
 - KPI development and report storytelling
 ## 📁 Files Included
 - Healthcare_Project_Dashboard.pbix
-- Sample_Data.xlsx
+- Papollo_Healthcare_Dataset.xlsx
 - Screenshots
 ## 🚀 How to Use
 Download the `.pbix` file and open it in Power BI Desktop to explore the full dashboard interactively.
